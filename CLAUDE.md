@@ -5,7 +5,7 @@ Recreates [donjon.bin.sh](https://donjon.bin.sh/5e/dungeon/) dungeon generator o
 ## Project Structure
 
 ```
-Donjon-Regen.Pyt/       # Project root — all source lives here
+Donjon-Regen_Pyt/       # Project root — all source lives here
   regen.py              # CLI entry point (also launches the GUI with --gui)
   app.py                # PySide6 GUI (viewer-first); packaging/app entry point
   generate.py           # Shared generation logic (used by CLI and GUI)

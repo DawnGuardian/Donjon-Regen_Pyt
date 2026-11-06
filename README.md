@@ -43,13 +43,13 @@ Clone the repository (or download the ZIP from the project page and unzip it),
 then move into the folder:
 
 ```bash
-git clone <this-repo-url> Donjon-Regen.Pyt
-cd Donjon-Regen.Pyt
+git clone <this-repo-url> Donjon-Regen_Pyt
+cd Donjon-Regen_Pyt
 ```
 
 ### 3. Install the dependencies
 
-From inside the `Donjon-Regen.Pyt` folder:
+From inside the `Donjon-Regen_Pyt` folder:
 
 ```bash
 uv sync
@@ -75,7 +75,7 @@ If you'd rather have a double-clickable app than type `uv run` every time, you
 can build one yourself from the same source. It's a single command, and it
 produces exactly what the Releases page ships.
 
-From inside the `Donjon-Regen.Pyt` folder, after `uv sync`:
+From inside the `Donjon-Regen_Pyt` folder, after `uv sync`:
 
 ```bash
 uv run pyinstaller donjon-regen.spec --noconfirm

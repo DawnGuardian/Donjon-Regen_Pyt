@@ -12,6 +12,7 @@ This file is generated from the commit history -- do not edit it by hand.
 ### Documentation
 
 - Name the folder by the repository's new name
+- Use the repository's underscore suffix
 
 ### Build
 

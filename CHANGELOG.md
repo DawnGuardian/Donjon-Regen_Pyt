@@ -9,6 +9,10 @@ This file is generated from the commit history -- do not edit it by hand.
 
 - **generate**: Write the dungeon JSON back out alongside renders
 
+### Documentation
+
+- Name the folder by the repository's new name
+
 ### Build
 
 - Add git-cliff changelog configuration
@@ -17,6 +21,7 @@ This file is generated from the commit history -- do not edit it by hand.
 ### Miscellaneous
 
 - Add the shared .editorconfig
+- Update the shared .editorconfig
 
 ## 1.0.0 - 2026-06-16
 
